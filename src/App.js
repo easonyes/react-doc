@@ -1,5 +1,7 @@
 import React from "react";
-import Index from "./refs";
+// import Index from "./refs";
+import Index from "./hook";
+// import Index from "./renderProps";
 // import HocIndex from "./hocs";
 // import ProfilerIndex from "./profiler";
 
